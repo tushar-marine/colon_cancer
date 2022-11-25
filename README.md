@@ -1,2 +1,3 @@
 # Coloractal Cancer Detection
-Details will be provied soon...
+## Abstract
+Colorectal Cancer, sometimes referred to as colon cancer or rectal cancer or bowel cancer, has become one of the common types of cancer throughout the world. Diagnosis for detection in the early stage is very crucial for the treatment with a higher chance of survival and recovery.  Machine Learning (ML) has shown significant performance in Computer Aided Diagnosis (CAD) on diverse cancer identification. In this paper, a comprehensive comparison among five Deep Convolutional Neural Network (Deep CNN) model’s (pre-trained with millions of images from ImageNet) will be done in terms of performance on detecting colorectal cancer after fine-tunning those models using Transfer Learning method. Finally, few fusion based models will be presented that outperformed other individual models with more accuracy as high as 99.33%.
